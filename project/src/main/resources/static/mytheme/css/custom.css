@@ -1,0 +1,35 @@
+
+#logbtn{
+	position: absolute;
+    top: 0;
+    right: 0;
+	float:right;
+}
+
+#add{
+	
+	float:right;
+}
+
+
+#login {
+	background-color: #25c1f7;"
+}
+
+.addresspart{
+	margin-left:177px;
+}
+#adminaddresspart{
+	margin-left:80px;
+}
+
+.dropbtn {
+  background-color: white;
+  color: black;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+}
+
+
+
